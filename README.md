@@ -1,5 +1,6 @@
 # React + Vite
 # Currency Converter
+![cc](https://github.com/HeyIamMarasiniAmrit/Currency-Convertor/assets/101445427/e343b66a-538c-4a09-9baf-514985f636c5)
 
 A simple currency converter application built with React that allows users to convert amounts between different currencies using live exchange rates.
 
